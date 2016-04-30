@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN40304ucmf_19_0008.png"; bbox 0 0 2359 3336; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 186 513 1175 853">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 186 513 1175 853">
+     <span class='ocr_line' id='line_1_1' title="bbox 186 513 1175 853; baseline -0.005 -55"><span class='ocrx_word' id='word_1_1' title='bbox 186 525 990 853; x_wconf 76' lang='lat' dir='ltr'><strong>Heumann,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1057 513 1175 793; x_wconf 92' lang='lat' dir='ltr'>C</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 195 1424 1124 2247">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 168 1424 1124 2247">
+     <span class='ocr_line' id='line_1_2' title="bbox 195 1424 1124 1713; baseline -0.013 0.661"><span class='ocrx_word' id='word_1_3' title='bbox 195 1424 1124 1713; x_wconf 78' lang='lat' dir='ltr'><strong>Celeberrimi</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 196 1881 1087 2247; baseline -0.009 -79"><span class='ocrx_word' id='word_1_4' title='bbox 196 1925 332 2168; x_wconf 81' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_5' title='bbox 380 1881 1087 2247; x_wconf 79' lang='lat' dir='ltr'>philologi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1184 3336">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1184 3336">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1184 3336; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1184 3336; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 192 2811 1101 3151">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 192 2811 1101 3151">
+     <span class='ocr_line' id='line_1_5' title="bbox 192 2811 1101 3151; baseline -0.001 -66"><span class='ocrx_word' id='word_1_7' title='bbox 192 2811 1101 3151; x_wconf 72' lang='lat' dir='ltr'>lenae,1742</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
